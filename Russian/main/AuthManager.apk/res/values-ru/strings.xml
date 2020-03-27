@@ -13,7 +13,7 @@
   <string name="HIPS_Perm_background_start_activity">Всплывающие окна в фоновом режиме</string>
   <string name="HIPS_Perm_background_start_activity_Desc">отображение всплывающих окон во время работы в фоновом режиме</string>
   <string name="HIPS_Perm_clipboard">Буфер обмена</string>
-  <string name="HIPS_Perm_clipboard_Desc">доступ и добавление элементов буфера обмена</string>  
+  <string name="HIPS_Perm_clipboard_Desc">Разрешить приложению доступ и добавление элементов буфера обмена</string>  
   <string name="HIPS_Perm_Bluetooth_Connectivity">Состояние Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">включение/выключение Bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">Нательные датчики</string>
@@ -96,7 +96,7 @@
   <string name="grant_dialog_button_deny">Запретить</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Запретить и больше не спрашивать</string>
   <string name="grant_dialog_button_deny_background">Разрешить в активном режиме</string>
-  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Разрешить в активном режиме и больше не спрашивать</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Разрешить, но только во время использования</string>
   <string name="location_settings">Настройки местоположения</string>
   <string name="location_warning">%1$s обеспечивает данные местоположения на устройстве. Доступ к местоположению можно изменить в Настройках.</string>
   <string name="never_ask_again">Больше не спрашивать</string>
